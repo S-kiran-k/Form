@@ -1,0 +1,35 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  font-size: 50 px;
+  text-align: center;
+}
+#forms{
+  
+  font-size: x-large;
+  border: 5px solid black;
+  margin-left: 500px;  
+  margin-right: 500px;
+}
+/* form{
+  background-image: url("https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg");  
+} */
+input {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px ;
+  border: 2px solid black;
+  box-sizing: border-box;
+  font-weight: bolder;
+  align-content: center;
+}
+
+.submit
+{
+  font-size: 20px;
+  border : 2px;
+  border-radius: 10px;
+}
+
+.table{
+  border:5px solid black;
+}
